@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7130056417",
+    "project_id": "usertouserchat-f8037",
+    "storage_bucket": "usertouserchat-f8037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7130056417:android:307bd77ddf314e3910d9a0",
+        "android_client_info": {
+          "package_name": "com.example.usertouserchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvseuaaNKJB3PCQi2P2hRnzjhH9vn-fPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
